@@ -1,1 +1,1 @@
-pandas
+from sklearn import pandas as pd
